@@ -1,0 +1,17 @@
+
+body{
+    background-color: grey;
+}
+.content{
+    margin: 10px;
+    background-color: #ddd;
+    border: none;
+    display: none;
+}
+.card-img-top{
+    width: 100%;
+}
+.card-body{
+    text-align: center;
+
+}
